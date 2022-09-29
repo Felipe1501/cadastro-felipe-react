@@ -1,6 +1,6 @@
-import React, { Component } from 'react'
-import axios from 'axios'
-import Main from '../template/Main'
+import React, { Component } from 'react';
+import axios from 'axios';
+import Main from '../template/Main';
 
 const headerProps = {
     icon: 'users',
