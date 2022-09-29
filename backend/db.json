@@ -1,0 +1,19 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "Felipe Barbosa",
+      "email": "felipe@gmail.com"
+    },
+    {
+      "id": 2,
+      "name": "Samara Masala",
+      "email": "samara@gmail.com"
+    },
+    {
+      "name": "Felipe Barbosa Dos Santos",
+      "email": "felipebsantos1501@gmail.com",
+      "id": 3
+    }
+  ]
+}
